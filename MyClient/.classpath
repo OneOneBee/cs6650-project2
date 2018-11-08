@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="edu/neu/cs6650/project2/MyClient/ClientRequest.java|edu/neu/cs6650/project2/MyClient/ClientTask.java|edu/neu/cs6650/project2/MyClient/Console.java|edu/neu/cs6650/project2/MyClient/MyClient.java|edu/neu/cs6650/project2/MyClient/MyPrinter.java|edu/neu/cs6650/project2/MyClient/OutPut.java|edu/neu/cs6650/project2/MyClient/Phase.java|edu/neu/cs6650/project2/MyClient/RequestTest.java|edu/neu/cs6650/project2/MyClient/TaskTimestamp.java" kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/Audrey/Downloads/BSDS-CS6650-master/assignment2/server/target/assignment-2/WEB-INF/lib/mysql-connector-java-5.1.39.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
